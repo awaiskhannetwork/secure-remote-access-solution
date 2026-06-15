@@ -9,12 +9,12 @@ Designed and implemented a secure remote access solution for employees using VPN
 - Implement secure authentication
 
 ## Tools Used
-- Ubuntu Server
-- VPN
-- RustDesk
-- MFA
-- IAM
-- Linux
+-Ubuntu Server
+-IPsec/IKEv2 VPN
+-RustDesk
+-Multi-Factor Authentication (MFA)
+-Identity and Access Management (IAM)
+-Linux Administration
 
 ## Activities Performed
 - Configured secure remote access
