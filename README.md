@@ -2,121 +2,123 @@
 
 ## Project Overview
 
-This project focuses on designing and implementing a secure remote access solution for employees working remotely. The solution was developed in a virtual lab environment using VPN, Multi-Factor Authentication (MFA), Identity and Access Management (IAM), Endpoint Security, and Zero Trust principles to ensure secure access to organizational resources.
+This project focuses on establishing a secure remote access solution for employees working remotely. The solution was implemented in a virtual lab environment and incorporates multiple cybersecurity controls including secure remote connectivity, identity management, authentication mechanisms, endpoint protection, and Zero Trust principles.
 
 ---
 
 ## Real-World Scenario
 
-Organizations increasingly allow employees to work remotely, creating security challenges such as unauthorized access, credential theft, insecure networks, and endpoint compromise.
+Modern organizations require employees to access company resources remotely. Without proper security controls, remote access can expose organizations to unauthorized access, credential theft, malware infections, and data breaches.
 
-This project simulates an enterprise environment where employees require secure remote access to company systems while maintaining confidentiality, integrity, and availability of organizational resources.
+This project simulates an enterprise environment where employees securely connect to organizational resources while maintaining security, compliance, and access control requirements.
 
 ---
 
 ## Objectives
 
 - Enable secure remote employee access
-- Protect organizational resources from unauthorized access
+- Protect organizational resources
 - Implement strong authentication mechanisms
-- Apply Zero Trust security principles
+- Apply Identity and Access Management controls
 - Secure remote desktop connectivity
-- Reduce security risks associated with remote work
+- Reduce risks associated with remote work
 
 ---
 
-## Technologies and Tools Used
+## Technologies Used
 
 - Ubuntu Server
-- IPsec/IKEv2 VPN
-- RustDesk Remote Desktop
+- VPN Technology
+- RustDesk
 - Multi-Factor Authentication (MFA)
 - Identity and Access Management (IAM)
-- Linux Administration
-- Zero Trust Security Model
+- Endpoint Security Controls
+- Zero Trust Security Principles
 - Virtual Lab Environment
 
 ---
 
-## Implementation Steps
+## Implementation Process
 
-### Phase 1 – Environment Setup
+### Phase 1 - Environment Preparation
 
-- Installed and configured Ubuntu Server
-- Prepared virtual lab environment
-- Configured network settings
+- Configured the virtual lab environment
+- Prepared server and client systems
+- Verified network connectivity
 
-### Phase 2 – Secure Remote Access
+### Phase 2 - Secure Connectivity
 
-- Configured VPN-based remote connectivity
+- Implemented secure remote access mechanisms
 - Established encrypted communication channels
-- Validated secure remote access functionality
+- Validated connectivity between systems
 
-### Phase 3 – Authentication & Access Control
+### Phase 3 - Authentication & Access Control
 
-- Implemented Multi-Factor Authentication (MFA)
-- Applied Identity and Access Management (IAM) controls
-- Enforced access permissions based on user roles
+- Implemented Multi-Factor Authentication
+- Applied Identity and Access Management controls
+- Configured user access permissions
 
-### Phase 4 – Remote Desktop Security
+### Phase 4 - Remote Access Configuration
 
-- Configured RustDesk secure remote access
-- Tested remote connectivity between systems
-- Verified secure session establishment
+- Configured secure remote desktop access
+- Tested remote connectivity
+- Validated secure access functionality
 
-### Phase 5 – Security Validation
+### Phase 5 - Security Validation
 
-- Tested access controls
-- Evaluated remote access security posture
-- Identified and mitigated potential security risks
+- Tested implemented security controls
+- Evaluated access restrictions
+- Verified secure communication channels
+
+### Phase 6 - Final Assessment
+
+- Reviewed solution effectiveness
+- Validated security objectives
+- Documented findings and outcomes
 
 ---
 
 ## Security Controls Implemented
 
-- VPN Encryption
+- Secure Remote Access
 - Multi-Factor Authentication (MFA)
 - Identity and Access Management (IAM)
-- Role-Based Access Control (RBAC)
-- Secure Remote Desktop Access
-- Zero Trust Security Principles
+- Access Control Mechanisms
 - Endpoint Security Controls
+- Zero Trust Principles
 
 ---
 
 ## Outcome
 
-Successfully designed and implemented a secure remote access solution within a virtual environment.
+Successfully designed and implemented a secure remote access solution within a controlled virtual environment.
 
-The solution demonstrated:
+The project demonstrated:
 
 - Secure remote connectivity
-- Strong user authentication
-- Controlled access management
+- Improved access control
+- Enhanced authentication security
 - Protection of organizational resources
-- Reduced remote access security risks
+- Practical implementation of cybersecurity concepts
 
 ---
 
 ## Skills Demonstrated
 
+- Cybersecurity Fundamentals
 - Network Security
 - Remote Access Security
-- VPN Configuration
-- IAM Implementation
-- MFA Deployment
+- IAM
+- MFA
 - Linux Administration
 - Security Assessment
 - Risk Mitigation
-- Zero Trust Architecture
 
 ---
 
 ## Project Documentation
 
-The complete project report is included in this repository:
-
-**Establishing a Secure Remote Access Solution for Employees.pdf**
+The complete project report is included in this repository as a PDF document.
 
 ---
 
@@ -124,4 +126,4 @@ The complete project report is included in this repository:
 
 Mohd Awais Khan
 
-Cyber Security & Ethical Hacking
+Master Diploma in Cyber Security & Ethical Hacking
