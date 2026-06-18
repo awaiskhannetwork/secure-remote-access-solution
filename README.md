@@ -37,7 +37,7 @@ This project simulates an enterprise environment where employees securely connec
 - Virtual Lab Environment
 
 ---
-Architecture Components
+## Architecture Components
 - Ubuntu Server acting as the VPN Gateway
 - Employee Client Systems
 - strongSwan IPsec/IKEv2 VPN
@@ -63,13 +63,13 @@ Architecture Components
 
 ### Phase 3 - Authentication & Access Control
 
--Implemented Multi-Factor Authentication (MFA) to strengthen user authentication and reduce the risk of unauthorized access.
+- Implemented Multi-Factor Authentication (MFA) to strengthen user authentication and reduce the risk of unauthorized access.
 - Applied Identity and Access Management controls
 - Configured user access permissions
 
 ### Phase 4 - Remote Access Configuration
 
--Configured RustDesk for secure remote desktop access and validated remote administration capabilities through encrypted sessions.
+- Configured RustDesk for secure remote desktop access and validated remote administration capabilities through encrypted sessions.
 - Tested remote connectivity
 - Validated secure access functionality
 
@@ -96,8 +96,8 @@ Architecture Components
 - Endpoint Security Controls
 - Zero Trust Principles
 
----
-Key Skills Demonstrated
+--
+## Key Skills Demonstrated
 
 - VPN Configuration
 - Remote Access Security
